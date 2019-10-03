@@ -1,6 +1,10 @@
 # terraformの使用
 ## 1. 環境準備  
-### 1.1 ツールのインストール  
+### 1.1 ツールのインストール
+###### ローカルPCで以下のツールをインストールします。  
+| 番号 | ツール名称 | 使用 | ダウンロードURL    
+| :----------: | :----------: | :----------: | :----------:     
+| 1 | Terraform | 生成とクラウド管理 | [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)    
 # terraformの使用
 ## 1. 環境準備  
 ## 2. 生成する
