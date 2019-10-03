@@ -1,13 +1,15 @@
 # terraformの使用
 ## 1. 環境準備  
 ### 1.1 ツールのインストール
-###### ローカルPCで以下のツールをインストールします。  
+###### ローカルPCで以下のツールをインストールします。  [InternetShortcut]
+URL=https://github.com/wang0912/md_docs/settings
+
 | 番号 | ツール名称 | 使用 | ダウンロードURL    
 | :----------: | :----------: | :----------: | :----------:     
 | 1 | Terraform | 生成とクラウド管理 | [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)
 ### 1.2 パラメータ設定（Windows側）
 ###### ローカルで実施するterraformパラメータを設定する。
-    1.  terraformのローカルインストールアドレスをコピーする
+
 # terraformの使用
 ## 1. 環境準備  
 ## 2. 生成する
