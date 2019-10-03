@@ -7,9 +7,7 @@
 | 1 | Terraform | 生成とクラウド管理 | [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)
 ### 1.2 パラメータ設定（Windows側）
 ###### ローカルで実施するterraformパラメータを設定する。
-    1.  terraformのローカルインストールアドレスをコピーする  
-    2.  右クリック“PC”-->“プロパティ”-->“システムの詳細設定”-->“環境変数”-->“Path”を選択-->“編集”-->“新規”，
-    最後、terraformのインストールアドレスを貼付け，全部確定する。
+    1.  terraformのローカルインストールアドレスをコピーする
 # terraformの使用
 ## 1. 環境準備  
 ## 2. 生成する
