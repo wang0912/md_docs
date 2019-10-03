@@ -3,7 +3,8 @@
 ### 1.1 ツールのインストール  
 # terraformの使用
 ## 1. 環境準備  
-### 2.1 ツールのインストール  
+## 2. 生成する
+### 2.1 Terraform  
     1. 以下のフォルダの中で2のコマンドを実行する（ terraform init,plan,apply)
     cd alicloud\terraform\cn-shanghai\01_initial\03_develop\01_vpc  
     cd alicloud\terraform\cn-shanghai\02_common\03_develop\01_oss  
