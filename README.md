@@ -4,7 +4,9 @@
 ###### ローカルPCで以下のツールをインストールします。  
 | 番号 | ツール名称 | 使用 | ダウンロードURL    
 | :----------: | :----------: | :----------: | :----------:     
-| 1 | Terraform | 生成とクラウド管理 | [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)    
+| 1 | Terraform | 生成とクラウド管理 | [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)
+### 1.2 パラメータ設定（Windows側）
+###### ローカルで実施するterraformパラメータを設定する。  
 # terraformの使用
 ## 1. 環境準備  
 ## 2. 生成する
